@@ -52,10 +52,10 @@
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,tailwind,bootstrap,php,mysql,java,cpp,python,firebase,github" alt="Tech Stack" />
 </p>
 
----
+<!--
 
 ## 💼 Projects I'm Working On
-
+//
 <p align="center">
   <a href="https://github.com/adityajs0204/Automation_Job_Portal" target="_blank">
     <img src="https://img.shields.io/badge/🔧%20Automation%20Job%20Portal-Node.js%20%7C%20MongoDB-green?style=for-the-badge" />
@@ -70,6 +70,7 @@
     <img src="https://img.shields.io/badge/🎫%20College%20Event%20Pass-Bootstrap%20%7C%20QR%20GatePass-yellow?style=for-the-badge" />
   </a>
 </p>
+-->
 
 ---
 
