@@ -89,21 +89,23 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/adityajs0204" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-adityajs0204-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-sai-aditya24-blue?style=for-the-badge&logo=linkedin" />
   </a>
+  <!--
   <a href="https://twitter.com/adityajs0204" target="_blank">
     <img src="https://img.shields.io/twitter/follow/adityajs0204?logo=twitter&style=for-the-badge" />
   </a>
-  <a href="https://instagram.com/adityajs0204" target="_blank">
+  -->
+  <a href="https://instagram.com/adityajs_0204" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-@adityajs0204-E4405F?style=for-the-badge&logo=instagram" />
   </a>
-  <a href="https://www.codechef.com/users/adityajs0204" target="_blank">
+  <a href="https://www.codechef.com/users/adityajs2006" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-adityajs0204-ff9800?style=for-the-badge&logo=codechef" />
   </a>
-  <a href="https://www.hackerrank.com/adityajs0204" target="_blank">
+  <a href="https://www.hackerrank.com/aditya_246" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-adityajs0204-2EC866?style=for-the-badge&logo=hackerrank" />
   </a>
-  <a href="https://leetcode.com/adityajs0204" target="_blank">
+  <a href="https://leetcode.com/adityajs_06" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-adityajs0204-FE7A16?style=for-the-badge&logo=leetcode" />
   </a>
 </p>
