@@ -100,13 +100,13 @@
     <img src="https://img.shields.io/badge/Instagram-@adityajs0204-E4405F?style=for-the-badge&logo=instagram" />
   </a>
   <a href="https://www.codechef.com/users/adityajs2006" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-adityajs0204-ff9800?style=for-the-badge&logo=codechef" />
+    <img src="https://img.shields.io/badge/CodeChef-adityajs2006-ff9800?style=for-the-badge&logo=codechef" />
   </a>
   <a href="https://www.hackerrank.com/aditya_246" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-adityajs0204-2EC866?style=for-the-badge&logo=hackerrank" />
+    <img src="https://img.shields.io/badge/HackerRank-adityajs_246-2EC866?style=for-the-badge&logo=hackerrank" />
   </a>
   <a href="https://leetcode.com/adityajs_06" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-adityajs0204-FE7A16?style=for-the-badge&logo=leetcode" />
+    <img src="https://img.shields.io/badge/LeetCode-adityajs_06-FE7A16?style=for-the-badge&logo=leetcode" />
   </a>
 </p>
 
