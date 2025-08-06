@@ -89,7 +89,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/adityajs0204" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-sai-aditya24-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Sai Aditya-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <!--
   <a href="https://twitter.com/adityajs0204" target="_blank">
