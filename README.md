@@ -92,7 +92,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Sai Aditya-blue?style=for-the-badge&logo=linkedin" />
   </a>
     <a href="https://x.com/adityajs24" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/adityajs24?logo=twitter&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Twitter-@adityajs24-1DA1F2?style=for-the-badge&logo=twitter" />
   </a>
  
   <a href="https://instagram.com/adityajs_0204" target="_blank">
