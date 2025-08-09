@@ -88,7 +88,7 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/adityajs0204" target="_blank">
+  <a href="https://linkedin.com/in/sai-aditya24" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Sai Aditya-blue?style=for-the-badge&logo=linkedin" />
   </a>
     <a href="https://x.com/adityajs24" target="_blank">
