@@ -76,7 +76,7 @@
 
 ## ✨ Highlights & Skills
 
-- 🔐 Secure apps using **JWT**, QR & face recognition  
+- 🔐 Secure apps using **JWT** 
 - 🎯 Collaborative & productivity full-stack tools  
 - ☁️ Cloud: **Firebase**, **MongoDB Atlas**  
 - 💡 UI: **Tailwind**, **Bootstrap**  
@@ -91,11 +91,10 @@
   <a href="https://linkedin.com/in/adityajs0204" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Sai Aditya-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <!--
-  <a href="https://twitter.com/adityajs0204" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/adityajs0204?logo=twitter&style=for-the-badge" />
+    <a href="https://x.com/adityajs24" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/adityajs24?logo=twitter&style=for-the-badge" />
   </a>
-  -->
+ 
   <a href="https://instagram.com/adityajs_0204" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-@adityajs0204-E4405F?style=for-the-badge&logo=instagram" />
   </a>
