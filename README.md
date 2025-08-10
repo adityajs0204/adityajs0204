@@ -13,7 +13,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=adityajs0204&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />  
-  <a href="https://twitter.com/adityajs0204"><img src="https://img.shields.io/twitter/follow/adityajs0204?style=social" alt="Twitter Follow"></a>
+  <a href="https://twitter.com/adityajs24"><img src="https://img.shields.io/twitter/follow/adityajs0204?style=social" alt="Twitter Follow"></a>
 </p>
 
 ---
