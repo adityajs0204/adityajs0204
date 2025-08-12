@@ -1,7 +1,7 @@
 <h1 align="center">👋 HI!, I'm Jangala Sai Aditya</h1>
 
 <p align="center">
-  <strong>Full-Stack Developer | MERN Specialist</strong><br/>
+  <strong> Full-Stack Developer | MERN Specialist </strong><br/>
   Building Digital Experiences with Code & Passion 💻🌱
 </p>
 
